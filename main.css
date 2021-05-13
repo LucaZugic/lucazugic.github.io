@@ -70,6 +70,10 @@ a, a:hover, a:active, a:visited {
   border: 1px solid #000000;
   border-radius: 8px;
   margin-bottom: 18px;
+  opacity: 0.85;
+}
+
+.title-section {
   opacity: 0.95;
 }
 
