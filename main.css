@@ -54,10 +54,11 @@ a, a:hover, a:active, a:visited {
 
 .content-section {
   background: #000000;
-  padding: 10px 20px;
+  padding: 12px 15px;
   border: 1px solid #000000;
-  border-radius: 3px;
-  margin-bottom: 20px;
+  border-radius: 25px;
+  margin-bottom: 18px;
+  opacity: 0.95;
 }
 
 .list-group-item {
